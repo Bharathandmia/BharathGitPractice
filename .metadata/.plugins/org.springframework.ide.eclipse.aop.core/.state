@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Hibernate-CurdExample"/>
+<aop-project name="Integration"/>
+<aop-project name="IntegrationsExample1"/>
+<aop-project name="Integration-1"/>
+<aop-project name="Integration-2"/>
+<aop-project name="Integration-3"/>
+<aop-project name="Hibernate-CurdExample-1"/>
+</aop-reference-model>
