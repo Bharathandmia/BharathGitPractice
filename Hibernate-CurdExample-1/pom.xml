@@ -7,6 +7,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
+
+		
 	</parent>
 	<groupId>DataJpa</groupId>
 	<artifactId>DataJpaExample</artifactId>
